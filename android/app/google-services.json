@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "168706578944",
+    "project_id": "nitmess-cdf3e",
+    "storage_bucket": "nitmess-cdf3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168706578944:android:4803e36510dd86b2e216e5",
+        "android_client_info": {
+          "package_name": "com.nitmess.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168706578944-b78teiicnfqpcsp5t05rbud24jip1t6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nitmess.com",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "168706578944-mf6pk8vrugsinhgoll70pjdvdqh9kgeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW4xSWVr9QYx9u2YMeZJm_lHDRMJYtQXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168706578944-mf6pk8vrugsinhgoll70pjdvdqh9kgeh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "168706578944-3uo3tjdnus2qffq3o79ps4ekqikg8290.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nitmess.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

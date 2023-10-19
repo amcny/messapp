@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "mess",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "messname",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "order_no",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
